@@ -3,6 +3,7 @@
   "description": "ECMAScript parser",
   "homepage": "https://github.com/ternjs/acorn",
   "main": "dist/acorn.js",
+  "jsnext:main": "src/index.js",
   "version": "3.2.0",
   "engines": {
     "node": ">=0.4.0"
